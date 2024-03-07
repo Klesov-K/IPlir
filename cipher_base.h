@@ -1,9 +1,4 @@
-/*
- * cipher.h
- *
- *  Created on: Jan 27, 2020
- *      Author: V.A.Kiryukhin
- */
+
 
 #ifndef CIPHER_BASE_H_
 #define CIPHER_BASE_H_

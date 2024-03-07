@@ -1,10 +1,4 @@
-/*
- * magma.h
- *
- *  Created on: Jan 27, 2020
- *      Author: V.A.Kiryukhin
- *
- */
+
 
 #ifndef MAGMA_H_
 #define MAGMA_H_

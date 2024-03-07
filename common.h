@@ -1,9 +1,4 @@
-/*
- * common.h
- *
- *  Created on: Jan 28, 2020
- *      Author: V.A.Kiryukhin
- */
+
 
 #ifndef COMMON_H_
 #define COMMON_H_
@@ -26,6 +21,8 @@ const size_t kByteValues = 256;
 const size_t kGostKeyByteSize = 32;
 
 using GostKey = uint8_t[kGostKeyByteSize];
+using vGostKey = std::vector<uint8_t>;
+
 
 std::string to_hex(const uint8_t *block, const size_t bytesize = 16)
 {

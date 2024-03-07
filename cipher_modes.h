@@ -1,9 +1,4 @@
-/*
- * cipher_modes.h
- *
- *  Created on: Jan 27, 2020
- *      Author: V.A.Kiryukhin
- */
+
 
 #ifndef CIPHER_MODES_H_
 #define CIPHER_MODES_H_

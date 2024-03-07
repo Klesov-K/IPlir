@@ -1,9 +1,3 @@
-/*
- * block_functions.h
- *
- *  Created on: Jan 30, 2020
- *      Author: V.A.Kiryukhin
- */
 
 #ifndef BLOCK_FUNCTIONS_H_
 #define BLOCK_FUNCTIONS_H_

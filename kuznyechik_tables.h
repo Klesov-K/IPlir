@@ -1,9 +1,4 @@
-/*
- * kuznyechik_tables.h
- *
- *  Created on: Jan 28, 2020
- *      Author: V.A.Kiryukhin
- */
+
 
 #ifndef KUZNYECHIK_TABLES_H_
 #define KUZNYECHIK_TABLES_H_

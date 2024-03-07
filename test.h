@@ -1,9 +1,4 @@
-/*
- * test.h
- *
- *  Created on: Jan 30, 2020
- *      Author: V.A.Kiryukhin
- */
+
 
 #ifndef TEST_H_
 #define TEST_H_

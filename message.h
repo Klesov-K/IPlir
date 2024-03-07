@@ -1,9 +1,4 @@
-/*
- * message.h
- *
- *  Created on: Jan 28, 2020
- *      Author: V.A.Kiryukhin
- */
+
 
 #ifndef MESSAGE_H_
 #define MESSAGE_H_
